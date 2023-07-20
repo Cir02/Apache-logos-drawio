@@ -14,7 +14,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -160,6 +159,6 @@ cython_debug/
 #.idea/
 
 .vscode
-apache_logos_env
+apache_logos
 chromedriver_win32.zip
-.scrip/apache_logos_env
+.script/apache_logos_env
