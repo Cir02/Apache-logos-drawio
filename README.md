@@ -3,7 +3,7 @@ Based on [Apache Software Foundation projects logo](https://apache.org/logos/) w
 
 Library:
 
- https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fgithub.com%2FCir02%2FApache-logos-drawio%2Fblob%2Fmain%2Flib%2Fapache_software_foundation_logos.xml
+ https://app.diagrams.net/?libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FCir02%2FApache-logos-drawio%2Fmain%2Flib%2Fapache_software_foundation_logos.xml
 
 Created with web.scrapping with Selenium.
 ---in progress---
